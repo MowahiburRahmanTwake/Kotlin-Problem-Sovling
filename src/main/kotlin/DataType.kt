@@ -21,10 +21,12 @@
 
 
 fun main() {
-    var a:Int = Int.MAX_VALUE
-    var b:Int = Int.MIN_VALUE
+//    var a:Int = Int.MAX_VALUE
+//    var b:Int = Int.MIN_VALUE
 //    var a = Int.MAX_VALUE
 //    var b = Int.MIN_VALUE
+    var a:Long = Long.MAX_VALUE
+    var b:Long = Long.MIN_VALUE
 
     print("The max value ${a} and the minimum value ${b}")
 }
