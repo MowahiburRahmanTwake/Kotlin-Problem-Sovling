@@ -20,7 +20,7 @@
 //    var number1 = sc.nextInt()
 //    var number2 = sc.nextInt()
 //    var number3 = sc.nextInt()
-//
+//         
 //    if (number1>number2 && number1 > number3){
 //        println("number1 is grather")
 //    } else if (number2 > number1 && number2 > number3){
@@ -36,8 +36,8 @@
 //    println("number1: ${number1}, number2: ${number2} and number3: ${number3} result is = ${result} ")
 //}
 
-fun main(args: Array<String>) {
-    var student = arrayOf("Twake","Wahidul","Imran","Mursalin")
+fun main() {
+    val student = arrayOf("Twake","Wahidul","Imran","Mursalin")
 //    println(student[0])
     var index = 2
     while (index <= student.size){
