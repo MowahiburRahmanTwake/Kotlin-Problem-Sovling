@@ -1,7 +1,7 @@
 fun main() {
     println("Simple Calculator")
     calculator()
-    name()
+
 
 }
 
@@ -19,10 +19,11 @@ fun calculator() {
     println("Mult = ${mult}")
     println("Div = ${div}")
 }
-fun name() {
-    println("Product by Mawahibur")
 
-}
+
 fun last_name() {
     println("Twake")
+}
+fun first_name() {
+    println("Mowahibur")
 }
