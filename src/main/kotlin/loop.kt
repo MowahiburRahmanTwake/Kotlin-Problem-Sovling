@@ -57,8 +57,8 @@
 //Different Ways to Iterate Through a Range
 
 
-//fun main() {
-//    print("for (i in 1..5) print(i) = ")
-//    for (i in 1..5) print(i)
-//    println()
-//}
+fun main() {
+    print("for (i in 1..5) print(i) = ")
+    for (i in 1..5) print(i)
+    println()
+}
