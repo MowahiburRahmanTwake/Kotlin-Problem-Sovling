@@ -150,6 +150,13 @@
 
 
 
+<<<<<<< HEAD
+fun main() {
+    print("for (i in 1..5) print(i) = ")
+    for (i in 1..5) print(i)
+    println()
+}
+=======
 
 
 
@@ -159,3 +166,4 @@
 
 
 
+>>>>>>> a100f777f9540d48244aac6e6903c5a79c054038
